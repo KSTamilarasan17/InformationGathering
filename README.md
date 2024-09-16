@@ -1,4 +1,7 @@
 # InformationGathering
+Information Gathering Techiques
+
+# To perform information gathering techniques
 
 # AIM:
 
@@ -17,64 +20,76 @@ Investigate on the various categories of tools as follows:
 ### Step 3:
 Open terminal/browser and try execute necessary commands/use url to perform information gathering
 
-<<<<<<< HEAD
-### Pen Test Tools Categories:  
 
-Following Categories of pen test tools are identified for information gathering:
-
-Footprinting is a part of the reconnaissance process which is used for gathering possible information about a target computer system or network.
-http://www.whois.com/whois website to get detailed information about a domain name information including its owner, its registrar, date of registration, expiry, name server, owner's contact information, etc.
-
-### output
-![1](/im/whois.png)
-
-#### Finding IP address:
-ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.
-![ping](im/kali.png)
-
-#### ip2location.com :
-Finding Hosting Company
-get further detail by using ip2location.com website.
-![ip2](https://github.com/Manoj162004/InformationGathering/assets/120365042/619062b3-411f-4a14-b949-d60ad9b95b41)
+## OUTPUT:
 
 
-#### History of the website:
-https://web.archive.org/
-
-![![webarchive](https://github.com/Manoj162004/InformationGathering/assets/120365042/30205ff8-2bae-4392-99c0-b430e96122c2)
-
-3](/im/webarcive.png)
-
-#### Webserver Fingerprinting:
-
-#### Netcat:
-![4](/im/netcat.png)
-
- 
-#### nmap:
-![5](/im/nmap.png)
-
-#### Whatweb:
-
-![6](/im/whatweb.png)
-
-#### httprint
-
-![7](/im/httprint.png)
-
-### Tracing the Location
-#### TCP Traceroute:
-![tcptreceroute](https://github.com/Manoj162004/InformationGathering/assets/120365042/2f16c873-8fdd-44ce-82f7-c043389404de)
-
-#### UDP Traceroute:
-
-![udptraceroute](https://github.com/Manoj162004/InformationGathering/assets/120365042/48f6f804-3c6a-43c9-8d10-6eafd666a9d1)
+## whois:
 
 
-#### ICMP Traceroute:
-
-![10](/im/icmptraceroute.png)
 
 
-### RESULT:
+![Screenshot 2024-09-16 104320](https://github.com/user-attachments/assets/781e8d64-33e4-4d84-a3b5-2573967bcf40)
+
+## Finding Hosting Company :
+
+![Screenshot 2024-09-16 110110](https://github.com/user-attachments/assets/de66b8a5-9902-4539-b45e-7e7f8deda130)
+
+
+
+
+## History of the website :
+
+
+![Screenshot 2024-09-16 110323](https://github.com/user-attachments/assets/96e14497-8186-4184-91d8-7556ae8e93c7)
+
+## ping command :
+![Screenshot 2024-09-16 111017](https://github.com/user-attachments/assets/de7ee3da-b6db-49bb-bba8-41f3ebc154c8)
+
+## whois :
+![Screenshot 2024-09-16 111035](https://github.com/user-attachments/assets/09bdc913-d0b6-44d5-a599-ccb33a2cba48)
+
+
+
+## netcat :
+
+
+![Screenshot 2024-09-16 114928](https://github.com/user-attachments/assets/11364b4f-350e-47eb-83d9-ae92a4b0d641)
+
+
+## nmap :
+
+
+
+![Screenshot 2024-09-16 115148](https://github.com/user-attachments/assets/ba99da48-c8cf-4520-b146-4e947dad3c40)
+
+
+## whatweb :
+![Screenshot 2024-09-16 115357](https://github.com/user-attachments/assets/078d08b7-a266-47c4-bc95-9aa3ca907696)
+
+
+
+## httprint :
+
+![Screenshot 2024-09-16 120421](https://github.com/user-attachments/assets/0bae6c46-7f4d-4deb-8be1-4d8130d17b88)
+
+
+
+## ICMP traceroute :
+![Screenshot 2024-09-16 120838](https://github.com/user-attachments/assets/27775706-a85a-4abb-89a2-60e242a02440)
+
+
+
+
+
+## TCP traceroute :
+![Screenshot 2024-09-16 121015](https://github.com/user-attachments/assets/e4724bf1-543f-4c68-a0c8-925f085f8bb8)
+
+## UDP traceroute :
+![image](https://github.com/user-attachments/assets/328d385c-1e4b-4a4f-a729-a334be6e2aed)
+
+
+
+
+## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
